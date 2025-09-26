@@ -1,0 +1,74 @@
+.logo {
+    height: 150px;
+    width: 150px;
+}
+
+.menu-button {
+    display: block;
+    padding: 1rem;
+}
+
+.menu-button .bar {
+    display: block;
+    width: 25px;
+    height: 5px;
+    margin: 5px auto;
+    background-color: black;
+    border-radius: 3px;
+}
+
+.nav-desktop {
+    display: none;
+}
+
+.header {
+    background-color: #72A98F;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.header-top {
+    justify-content: center;
+    width: 100%;
+}
+
+.nav-menu {
+    overflow: hidden;
+    opacity: 0;
+}
+  
+.nav-menu.open {
+    display: block;
+    overflow: visible;
+    opacity: 1;
+}
+
+@media (min-width: 600px) {
+.header {
+    grid-template-columns: auto 1fr;
+
+    background-color: #72A98F;
+}
+
+.header-title {
+    text-align: center;
+}
+
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-logo {
+    width: 100px;
+    display: none;
+}
+
+.nav-menu {
+    display: block;
+    opacity: 1;
+}
+
+}

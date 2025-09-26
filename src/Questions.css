@@ -1,0 +1,12 @@
+h2 {
+    text-align: center;
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+.question-container {
+    max-width: 600px;
+    margin: 2rem auto;
+    text-align: center;
+    padding: 2rem;
+}

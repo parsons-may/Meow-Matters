@@ -1,0 +1,14 @@
+.accordion {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+  
+.accordion-title {
+    background-color: #f6f6f6;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+  
+.accordion-content {
+    padding: 1rem;
+}

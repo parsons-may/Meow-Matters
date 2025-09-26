@@ -1,0 +1,19 @@
+.panel {
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+.home-title {
+    font-size: 2rem;
+}
+
+.about-text {
+    font-size: 1.8rem;
+}
+
+.donation-text {
+    font-family: dancing script;
+    font-size: 1.4rem;
+    padding: 2rem;
+}

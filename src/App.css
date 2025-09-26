@@ -1,0 +1,14 @@
+.skip-link {
+    position: absolute;
+    top: -40px; 
+    left: 10px;
+    background: papayawhip;
+    color: black;
+    padding: 10px;
+}
+
+.skip-link:focus {
+    top: 10px; 
+}
+
+

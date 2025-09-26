@@ -1,0 +1,37 @@
+Image name: catLogo.jpg
+License: https://unsplash.com/license
+Source: UnSplash
+URL: https://unsplash.com/photos/silver-tabby-cat-surrounded-by-leaves-fZ8uf_L52wg
+
+Image name: catPlaying.jpeg
+License: Maya Parsons
+
+Image name: Coco.jpeg
+License: Maya Parsons
+
+Image name: FluffyCat.jpeg
+License: Maya Parsons
+
+Image name: Lily.jpeg
+License: Maya Parsons
+
+Image name: Max.jpeg
+License: Maya Parsons
+
+Image name: MaxAndRuby.jpeg
+License: Maya Parsons
+
+Image name: SittingCat.jpeg
+License: Maya Parsons
+
+Image name: YawningCat.jpeg
+License: Maya Parsons
+
+Image name: Pumpkin.jpeg
+License: Maya Parsons
+
+Image name: Reice.jpeg
+License: Maya Parsons
+
+Image name: Ruby.jpeg
+License: Maya Parsons

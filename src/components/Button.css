@@ -1,0 +1,25 @@
+.btn-button {
+    background-color: blue;
+    color: white;
+    padding: 1rem;
+    border: none;
+  }
+  
+  .btn-link {
+    background: none;
+    color: blue;
+    text-decoration: underline;
+    font-size: 1rem;
+    border: none;
+    padding: 1rem;
+  }
+
+  .btn-link:hover {
+    color: #0056b3;
+  }
+
+  @media (min-width: 600px) {
+    .btn-link {
+      font-size: 1.5rem;
+    }
+  }
