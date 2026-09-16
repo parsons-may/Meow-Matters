@@ -5,6 +5,8 @@ public record Cat(
         String name,
         int age,
         String breed,
-        String description
+        String image,
+        String summary,
+        String alt
 ) {
 }
